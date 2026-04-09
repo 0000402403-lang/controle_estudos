@@ -9,3 +9,5 @@ GitHub:
 
 VS Code:
 - controle de versão
+
+Git: erro proposital de digitação
